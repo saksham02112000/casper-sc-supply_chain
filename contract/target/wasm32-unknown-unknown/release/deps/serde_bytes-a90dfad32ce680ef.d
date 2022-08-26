@@ -1,0 +1,11 @@
+/home/saksham-nomic/SupplyChain/contract/target/wasm32-unknown-unknown/release/deps/serde_bytes-a90dfad32ce680ef.rmeta: /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/home/saksham-nomic/SupplyChain/contract/target/wasm32-unknown-unknown/release/deps/libserde_bytes-a90dfad32ce680ef.rlib: /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/home/saksham-nomic/SupplyChain/contract/target/wasm32-unknown-unknown/release/deps/serde_bytes-a90dfad32ce680ef.d: /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs /home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs
+
+/home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/lib.rs:
+/home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytes.rs:
+/home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/de.rs:
+/home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/ser.rs:
+/home/saksham-nomic/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_bytes-0.11.7/src/bytebuf.rs:

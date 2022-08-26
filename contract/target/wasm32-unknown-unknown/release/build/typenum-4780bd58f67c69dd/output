@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/saksham-nomic/SupplyChain/contract/target/wasm32-unknown-unknown/release/build/typenum-4780bd58f67c69dd/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/saksham-nomic/SupplyChain/contract/target/wasm32-unknown-unknown/release/build/typenum-4780bd58f67c69dd/out/op.rs
